@@ -1,0 +1,14 @@
+.primary_btn,
+.attention_btn {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.primary_btn {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+}
+
+.attention_btn {
+    background-color: rgb(241, 224, 70);
+}
